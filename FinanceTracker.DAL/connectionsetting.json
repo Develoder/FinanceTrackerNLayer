@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=finance_track;Username=postgres;Password=5454;CommandTimeout=0",
+  }
+}

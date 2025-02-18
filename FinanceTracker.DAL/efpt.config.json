@@ -1,0 +1,65 @@
+﻿{
+   "CodeGenerationMode": 5,
+   "ContextClassName": "EntitiesBaseContext",
+   "ContextNamespace": "FinanceTracker.DAL",
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "FinanceTracker.DAL",
+   "OutputContextPath": "EntityFrameworkCore\/Contexts",
+   "OutputPath": "EntityFrameworkCore\/Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 4,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "public.account",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.category_transaction",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.transaction",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.type_account",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.user",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
